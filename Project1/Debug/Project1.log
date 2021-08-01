@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\86139\Desktop\DUT\2-2数据结构与算法\上机作业\中缀表达式转后缀表达式\Project1\main.cpp(92,18): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\86139\Desktop\DUT\2-2数据结构与算法\上机作业\中缀表达式转后缀表达式\Project1\main.cpp(101,18): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\86139\Desktop\DUT\2-2数据结构与算法\上机作业\中缀表达式转后缀表达式\Project1\main.cpp(122,18): warning C4018: “<”: 有符号/无符号不匹配
+  Project1.vcxproj -> C:\Users\86139\Desktop\DUT\2-2数据结构与算法\上机作业\中缀表达式转后缀表达式\Debug\Project1.exe
